@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48223" started-at="2019-01-29T02:44:40Z" finished-at="2019-01-29T02:45:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48223" started-at="2019-01-29T02:44:40Z" finished-at="2019-01-29T02:45:28Z">
+      <class name="com.VB.MavenRestFramework.SampleTestOne">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestOne@181a1bc]" name="beforeMethod" is-config="true" duration-ms="2166" started-at="2019-01-29T02:45:09Z" finished-at="2019-01-29T02:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.VB.MavenRestFramework.SampleTestOne@181a1bc]" name="testOne" duration-ms="3078" started-at="2019-01-29T02:45:11Z" finished-at="2019-01-29T02:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestOne@181a1bc]" name="afterMethod" is-config="true" duration-ms="629" started-at="2019-01-29T02:45:14Z" finished-at="2019-01-29T02:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestOne@181a1bc]" name="beforeMethod" is-config="true" duration-ms="2498" started-at="2019-01-29T02:45:15Z" finished-at="2019-01-29T02:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testThree()[pri:0, instance:com.VB.MavenRestFramework.SampleTestOne@181a1bc]" name="testThree" duration-ms="3546" started-at="2019-01-29T02:45:17Z" finished-at="2019-01-29T02:45:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestOne@181a1bc]" name="afterMethod" is-config="true" duration-ms="629" started-at="2019-01-29T02:45:21Z" finished-at="2019-01-29T02:45:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestOne@181a1bc]" name="beforeMethod" is-config="true" duration-ms="2165" started-at="2019-01-29T02:45:21Z" finished-at="2019-01-29T02:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:com.VB.MavenRestFramework.SampleTestOne@181a1bc]" name="testTwo" duration-ms="3583" started-at="2019-01-29T02:45:24Z" finished-at="2019-01-29T02:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestOne@181a1bc]" name="afterMethod" is-config="true" duration-ms="628" started-at="2019-01-29T02:45:27Z" finished-at="2019-01-29T02:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.VB.MavenRestFramework.SampleTestOne -->
+      <class name="com.VB.MavenRestFramework.SampleTestTwo">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestTwo@12050f6]" name="beforeMethod" is-config="true" duration-ms="12931" started-at="2019-01-29T02:44:40Z" finished-at="2019-01-29T02:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.VB.MavenRestFramework.SampleTestTwo@12050f6]" name="testOne" duration-ms="3298" started-at="2019-01-29T02:44:52Z" finished-at="2019-01-29T02:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestTwo@12050f6]" name="afterMethod" is-config="true" duration-ms="688" started-at="2019-01-29T02:44:56Z" finished-at="2019-01-29T02:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestTwo@12050f6]" name="beforeMethod" is-config="true" duration-ms="2443" started-at="2019-01-29T02:44:56Z" finished-at="2019-01-29T02:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testThree()[pri:0, instance:com.VB.MavenRestFramework.SampleTestTwo@12050f6]" name="testThree" duration-ms="3532" started-at="2019-01-29T02:44:59Z" finished-at="2019-01-29T02:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestTwo@12050f6]" name="afterMethod" is-config="true" duration-ms="590" started-at="2019-01-29T02:45:02Z" finished-at="2019-01-29T02:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestTwo@12050f6]" name="beforeMethod" is-config="true" duration-ms="2390" started-at="2019-01-29T02:45:03Z" finished-at="2019-01-29T02:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:com.VB.MavenRestFramework.SampleTestTwo@12050f6]" name="testTwo" duration-ms="2756" started-at="2019-01-29T02:45:05Z" finished-at="2019-01-29T02:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.VB.MavenRestFramework.SampleTestTwo@12050f6]" name="afterMethod" is-config="true" duration-ms="643" started-at="2019-01-29T02:45:08Z" finished-at="2019-01-29T02:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.VB.MavenRestFramework.SampleTestTwo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
